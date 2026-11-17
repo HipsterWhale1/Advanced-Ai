@@ -1,0 +1,86 @@
+================================================================================
+ENGLISH 301 - PEER REVIEW SESSION TRANSCRIPT
+Assignment Evaluations & Consensus Grading
+Reviewers: Maya, Sam, Jordan
+================================================================================
+
+--------------------------------------------------------------------------------
+PART 1: ESSAY #1 REVIEW
+Title: "A Spray Bottle is the New Thneed®™"
+Assignment Type: Persuasive Essay (~5 pages)
+Special Criteria: Audience persuasiveness (must convince reviewers to earn top marks)
+Grading Scale: 30 - 60
+--------------------------------------------------------------------------------
+
+[INDIVIDUAL CRITIQUES]
+
+Reviewer 1: Maya (Focus: Audience Appeal & Persuasiveness)
+- Critique:
+  * Audience Appeal: The essay is undeniably fun, witty, and held my attention from the opening pizza-sauce scenario all the way to the end. The voice is fresh, conversational, and very relatable for college students.
+  * Persuasiveness: While the prompt prioritizes whether the piece genuinely persuades, the essay undercuts its own central thesis. It starts out arguing that carrying a personal spray bottle is a practical, essential game-changer, but by pages 4 and 5, it admits: "It's an unnecessary addition to our lives," "You're not going to stop getting sick," and "After a while, it might get dull... the magic will wear off." It persuades me that pulling silly pranks or breaking routine brings levity, but it completely fails to convince me that I should actually start carrying a spray bottle everywhere.
+  * Ethos: The author comes across more as a playful entertainer than an authoritative or credible advocate.
+- Individual Grade: 45 / 60
+
+Reviewer 2: Sam (Focus: Development & Structure)
+- Critique:
+  * Development: The development starts strong with a clear concept and relevant supporting points regarding cleanliness and mental wellbeing. However, the counterarguments are handled casually rather than rigorously. The "informal experiment" with friends is charming anecdotal evidence, but the author openly notes that testers forgot about the bottles and let them sit unused. The paper shifts focus mid-way from hygiene/productivity to philosophical musings on whimsical living (wearing Hawaiian shirts, screaming at the top of your lungs).
+  * Structure: The progression is clean and easy to follow (hook -> hygiene benefits -> cost/aesthetics -> friend trial -> counterargument -> call to action). However, the transitions between empirical hygiene studies and existential whimsy create a noticeable thematic rift.
+- Individual Grade: 45 / 60
+
+Reviewer 3: Jordan (Focus: Source Integration & Mechanics)
+- Critique:
+  * Source Integration: The author incorporates quotes and paraphrases from Sherri Gordon, Jeff Johnson, Kevin De Rosa, and Jordan Thomson. However, several sources listed in the Works Cited (e.g., Aliza Gans, Hailey Martinez, Prestige Cleaning, Zeinab Beydoun) never appear in the body text at all. Furthermore, "Jordan Thomson" is quoted directly in the text ("provide precise application..."), yet there is no corresponding entry for Thomson in the Works Cited.
+  * Citations & Formatting: Signal phrases are frequently informal, and in-text parenthetical citations do not adhere strictly to standard MLA style (omitting page numbers/author tags or dropping sources entirely). The heading also has minor MLA formatting slips (mixing "Vandenburg - 1" in the header margin with "Oct 9 2026").
+- Individual Grade: 40 / 60
+
+[DELIBERATION & UNANIMOUS CONSENSUS]
+- Discussion Notes:
+  * Persuasiveness: None of us were genuinely convinced to holster a dollar-store spray bottle around campus, meaning it cannot earn top-tier marks in the 55–60 range under the professor's spoken criteria.
+  * Audience Appeal & Effort: The writing style is distinct, funny, and engaging. It never dragged, and the student clearly put thought and creative effort into testing the idea.
+  * Academic Rigor: A grade above 50 would ignore significant citation mismatches (missing Works Cited entries, phantom citations) and logical contradictions in the thesis. However, dropping down to a 30–35 would penalize an essay that meets length, shows voice, and provides structured reasoning far too harshly.
+  * Compromise: We agree that 45 fairly honors the exceptional voice, readability, and structural flow while holding the line on source integrity and rhetorical persuasion.
+
+UNANIMOUS GRADE: 45 / 60
+
+
+================================================================================
+PART 2: ESSAY #2 REVIEW
+Title: "A Late Sleep Schedule is Not Actually Unhealthy"
+Assignment Type: Self-Analysis Essay (Rethinking an unresearched personal bias)
+Criteria: Same rubric (Audience Appeal, Development, Structure, Source Integration)
+Grading Scale: 30 - 60
+--------------------------------------------------------------------------------
+
+[INDIVIDUAL CRITIQUES]
+
+Reviewer 1: Maya (Focus: Audience Appeal & Self-Analysis Prompt Fulfillments)
+- Critique:
+  * Audience Appeal: The opening narrative hook about toddler daycare escape is genuinely memorable, funny, and immediately establishes an authentic personal connection to the subject. The voice is engaging throughout without sacrificing sincerity.
+  * Self-Analysis & Bias Re-examination: This assignment asked the writer to dismantle an unresearched personal bias, and the author executes this brilliantly. Rather than digging in their heels or writing a one-sided confirmation bias defense, the author openly maps out their initial assumption ("when we sleep does not matter at all"), confronts scientific nuance (chronotype vs. circadian rhythm vs. zeitgebers), and honestly reaches the self-aware realization that their theory requires impractical discipline they don't actually maintain.
+  * Ethos: The author balances intellectual curiosity with candid humility. It feels like a real journey of critical thinking.
+- Individual Grade: 55 / 60
+
+Reviewer 2: Sam (Focus: Development & Structure)
+- Critique:
+  * Development: The depth of research and analytical development here is leagues ahead of typical undergraduate papers. The author systematically identifies conflating variables in common health literature (pointing out that many studies fail to control for sleep duration when blaming late sleep timing) before diving into chronobiology, consistency, and environmental entrainment. The logic is sound, deep, and directly addresses counter-arguments and real-world friction.
+  * Structure: The macro-structure moves in a very clean, sequential progression: personal premise -> literature bias identification -> biological mechanisms (chronotype vs. circadian clock) -> the role of consistency -> zeitgebers -> practical synthesis -> introspective conclusion. Subheadings keep the complex biological concepts accessible and readable.
+- Individual Grade: 55 / 60
+
+Reviewer 3: Jordan (Focus: Source Integration & Formatting Mechanics)
+- Critique:
+  * Source Integration: The scholarly foundation is extensive and robust. Unlike the previous paper, sources in the text match up with real studies in the bibliography (Chaput, Huang, Pacheco, Gordon, Xie, Youngstedt, Sletten, etc.). The author synthesizes quotes and summaries smoothly into the flow of their own argument.
+  * Formatting & Citation Style Inconsistencies:
+    - The essay shifts from MLA headers (Vandenburg - 1) at the top to APA-style in-text author-date citations (Huang, 2019) and an APA-style reference list. For an English department paper, MLA (author-page) is standard unless the professor explicitly requested APA for scientific topics.
+    - A few in-text citations cite corporate or organizational names awkwardly (e.g., "(uclahealth, 2025)" instead of capitalizing properly), and there are anachronistic publication years listed in the bibliography alongside historical studies.
+    - While the bibliographic effort is vast (over 20 sources listed), some reference entries (e.g., Campbell et al., Hopkins, Robbins et al., Sharkey et al., Wolfson et al.) are not explicitly integrated or cited directly inside the body text.
+- Individual Grade: 50 / 60
+
+[DELIBERATION & UNANIMOUS CONSENSUS]
+- Discussion Notes:
+  * Prompt Alignment: On the core prompt—examining an unresearched personal bias through research and self-reflection—this paper is an exemplary model. The author does not simply parrot Google results; they actually wrestle with the science, acknowledge nuance, and change their perspective by the final page.
+  * Tone & Effort: The writing is energetic and authentic. The paper demonstrates genuine time investment, synthesis of medical and physiological literature, and meaningful introspection.
+  * Mechanical Deduction: The hybrid MLA/APA style and inclusion of uncited reference entries in the bibliography prevent it from reaching a flawless 58–60.
+  * Compromise: Both Maya and Sam feel this easily deserves a solid 'A' range score for fulfilling the self-analysis criteria and development so thoroughly, while Jordan agrees that deducting 6 points fairly accounts for the citation style blending and uncited references.
+
+UNANIMOUS GRADE: 54 / 60
+================================================================================
